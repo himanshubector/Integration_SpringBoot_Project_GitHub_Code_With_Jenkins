@@ -17,7 +17,7 @@ class SpringJenkinsProjectApplicationTests
 
 
 	@Test
-	void contextLoads()
+	 contextLoads()
 	{
 		log.info("Test case executing.........");
 		log.info("Test case executing second logger statement.........");
